@@ -15,7 +15,7 @@ weight = 20
   icon_pack = "fa"
   name = "Data Driven"
   description = "..."
-  
+
 [[feature]]
   icon = "pencil"
   icon_pack = "fa"
