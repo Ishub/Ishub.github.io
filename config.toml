@@ -27,7 +27,7 @@ paginate = 10
 disqusShortname = ""
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = ""
+googleAnalytics = "UA-137374761-1"
 
 # Default language to use (if you setup multilingual support)
 defaultContentLanguage = "en"
@@ -76,7 +76,7 @@ enableGitInfo = false
   email = "gupta515@purdue.edu"
   #address = "Building 1 Room 1, Stanford University, California, 90210, USA"
   #office_hours = "Monday 10:00 to 13:00 or email for appointment"
-  phone = "7657728232"
+  phone = "+1-(765)-772-8232"
   #skype = "echo123"
   telegram = ""
 
@@ -277,19 +277,19 @@ enableGitInfo = false
 #  weight = 2
 
 [[menu.main]]
-  name = "Posts"
+  name = "Hackathons"
   url = "#posts"
-  weight = 5
+  weight = 3
 
 [[menu.main]]
   name = "Projects"
   url = "#projects"
-  weight = 3
+  weight = 4
 
 [[menu.main]]
   name = "Cool Stuff"
   url = "#teaching"
-  weight = 4
+  weight = 5
 
 [[menu.main]]
   name = "Contact"
