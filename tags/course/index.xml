@@ -56,5 +56,24 @@
       <description></description>
     </item>
     
+    <item>
+      <title>Non-Intrusive User Interaction Monitoring</title>
+      <link>https://ishub.github.io/project/openlab/</link>
+      <pubDate>Thu, 27 Sep 2018 23:01:41 -0400</pubDate>
+      
+      <guid>https://ishub.github.io/project/openlab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sequence Analysis approach to improve product forecasts</title>
+      <link>https://ishub.github.io/project/autoparts/</link>
+      <pubDate>Thu, 27 Sep 2018 23:01:41 -0400</pubDate>
+      
+      <guid>https://ishub.github.io/project/autoparts/</guid>
+      <description>Worked with the leading auto part seller in the US, to improve sales forecast by implementing a sequence analysis approach with time-series data to improve the accuracy of the model.
+This study investigates a novel application of sequence analysis to forecast new product demand, which is a modified version of the approach that has been used in the bioinformatics field for protein sequencing. For retailers, the problem of forecasting demand for products which have never existed previously is challenging.</description>
+    </item>
+    
   </channel>
 </rss>
