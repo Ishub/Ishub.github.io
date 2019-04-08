@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Shubham Gupta</title>
+    <link>https://ishub.github.io/tags/</link>
+    <description>Recent content in Tags on Shubham Gupta</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://ishub.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>course</title>
+      <link>https://ishub.github.io/tags/course/</link>
+      <pubDate>Thu, 27 Sep 2018 23:01:41 -0400</pubDate>
+      
+      <guid>https://ishub.github.io/tags/course/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dance</title>
+      <link>https://ishub.github.io/tags/dance/</link>
+      <pubDate>Thu, 27 Sep 2018 23:01:41 -0400</pubDate>
+      
+      <guid>https://ishub.github.io/tags/dance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>extra</title>
+      <link>https://ishub.github.io/tags/extra/</link>
+      <pubDate>Thu, 27 Sep 2018 23:01:41 -0400</pubDate>
+      
+      <guid>https://ishub.github.io/tags/extra/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hackathon</title>
+      <link>https://ishub.github.io/tags/hackathon/</link>
+      <pubDate>Thu, 27 Sep 2018 23:01:41 -0400</pubDate>
+      
+      <guid>https://ishub.github.io/tags/hackathon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>industry</title>
+      <link>https://ishub.github.io/tags/industry/</link>
+      <pubDate>Thu, 27 Sep 2018 23:01:41 -0400</pubDate>
+      
+      <guid>https://ishub.github.io/tags/industry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>travel</title>
+      <link>https://ishub.github.io/tags/travel/</link>
+      <pubDate>Thu, 27 Sep 2018 23:01:41 -0400</pubDate>
+      
+      <guid>https://ishub.github.io/tags/travel/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

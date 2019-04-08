@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>course on Shubham Gupta</title>
+    <link>https://ishub.github.io/tags/course/</link>
+    <description>Recent content in course on Shubham Gupta</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 27 Sep 2018 23:01:41 -0400</lastBuildDate>
+    
+	<atom:link href="https://ishub.github.io/tags/course/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Airbnb Property Pricing Prediction</title>
+      <link>https://ishub.github.io/project/airbnb/</link>
+      <pubDate>Thu, 27 Sep 2018 23:01:41 -0400</pubDate>
+      
+      <guid>https://ishub.github.io/project/airbnb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Behind the scenes of a hit track</title>
+      <link>https://ishub.github.io/project/spotify/</link>
+      <pubDate>Thu, 27 Sep 2018 23:01:41 -0400</pubDate>
+      
+      <guid>https://ishub.github.io/project/spotify/</guid>
+      <description>In 2017, revenues from recorded music in the United States were estimated at a retail value of $8.7 billion, this market includes streaming services, live shows, record labels, artists, song writing and video streaming, which relies heavily on a single factor, the success of a song.Record Labels and artists release thousands of songs across various genres to get a few hit songs to get return on their investment. Considering the size of this market, there still lies ambiguity in what makes a song popular.</description>
+    </item>
+    
+    <item>
+      <title>Craiglist Spam Ad Filter</title>
+      <link>https://ishub.github.io/project/craiglist/</link>
+      <pubDate>Thu, 27 Sep 2018 23:01:41 -0400</pubDate>
+      
+      <guid>https://ishub.github.io/project/craiglist/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marketing Superheroes</title>
+      <link>https://ishub.github.io/project/marvel/</link>
+      <pubDate>Thu, 27 Sep 2018 23:01:41 -0400</pubDate>
+      
+      <guid>https://ishub.github.io/project/marvel/</guid>
+      <description>The study involves evaluating the marketing strategies and efforts by Marvel Studios</description>
+    </item>
+    
+    <item>
+      <title>New York Restaurant Analysis</title>
+      <link>https://ishub.github.io/project/nyrestaurant/</link>
+      <pubDate>Thu, 27 Sep 2018 23:01:41 -0400</pubDate>
+      
+      <guid>https://ishub.github.io/project/nyrestaurant/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

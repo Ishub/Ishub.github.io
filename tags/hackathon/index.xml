@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hackathon on Shubham Gupta</title>
+    <link>https://ishub.github.io/tags/hackathon/</link>
+    <description>Recent content in hackathon on Shubham Gupta</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 27 Sep 2018 23:01:41 -0400</lastBuildDate>
+    
+	<atom:link href="https://ishub.github.io/tags/hackathon/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ecaura</title>
+      <link>https://ishub.github.io/project/nyuad/</link>
+      <pubDate>Thu, 27 Sep 2018 23:01:41 -0400</pubDate>
+      
+      <guid>https://ishub.github.io/project/nyuad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Freestyle O.R. Supreme Hackathon</title>
+      <link>https://ishub.github.io/project/informs/</link>
+      <pubDate>Thu, 27 Sep 2018 23:01:41 -0400</pubDate>
+      
+      <guid>https://ishub.github.io/project/informs/</guid>
+      <description>Freestyle O.R. Supreme Hackathon, INFORMS BA conf</description>
+    </item>
+    
+    <item>
+      <title>Intellivision</title>
+      <link>https://ishub.github.io/project/spartahack/</link>
+      <pubDate>Thu, 27 Sep 2018 23:01:41 -0400</pubDate>
+      
+      <guid>https://ishub.github.io/project/spartahack/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OpenCosmics</title>
+      <link>https://ishub.github.io/project/opencosmics/</link>
+      <pubDate>Thu, 27 Sep 2018 23:01:41 -0400</pubDate>
+      
+      <guid>https://ishub.github.io/project/opencosmics/</guid>
+      <description>This was originally published as the Open Cosmics entry for the CERN Webfest. Did you know that there are high energy particles from far edges of the universe passing through your body as you read this? Ever wondered what actually goes on inside the detectors of the Large Hadron Collider (LHC) at CERN? High energy cosmic beams hit the Earth’s outer atmosphere, which in turn scatters these rays into a shower of particle decays.</description>
+    </item>
+    
+  </channel>
+</rss>

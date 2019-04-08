@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shubham Gupta on Shubham Gupta</title>
+    <link>https://ishub.github.io/</link>
+    <description>Recent content in Shubham Gupta on Shubham Gupta</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 27 Sep 2018 23:01:41 -0400</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Airbnb Property Pricing Prediction</title>
+      <link>https://ishub.github.io/project/airbnb/</link>
+      <pubDate>Thu, 27 Sep 2018 23:01:41 -0400</pubDate>
+      
+      <guid>https://ishub.github.io/project/airbnb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Behind the scenes of a hit track</title>
+      <link>https://ishub.github.io/project/spotify/</link>
+      <pubDate>Thu, 27 Sep 2018 23:01:41 -0400</pubDate>
+      
+      <guid>https://ishub.github.io/project/spotify/</guid>
+      <description>&lt;p&gt;In 2017, revenues from recorded music in the United States were estimated at a retail value of $8.7 billion, this market includes streaming services, live shows, record labels, artists, song writing and video streaming, which relies heavily on a single factor, the success of a song.Record Labels and artists release thousands of songs across various genres to get a few hit songs to get return on their investment. Considering the size of this market, there still lies ambiguity in what makes a song popular. Many factors go into deciding the success of a song such as artist popularity, holiday season, internet mood, trending topics on the web and while a lot of them can’t be controlled, there are many that can be. Music streaming apps such as Spotify, Apple Music pay the artists per stream, so it makes sense for music producers to want to maximize the number of streams their tracks get, so it becomes crucial to understand which factors significantly influence the popularity. The hypothesis to be tested was whether features such as audio properties, lyrics sentiment and artist popularity could impact the popularity of a song in-turn impacting the profits generated, and it was assumed that all marketing efforts by labels would yield equal results. The insights of the analysis can be used by music producers to get closer to increase profit margins in music production.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Craiglist Spam Ad Filter</title>
+      <link>https://ishub.github.io/project/craiglist/</link>
+      <pubDate>Thu, 27 Sep 2018 23:01:41 -0400</pubDate>
+      
+      <guid>https://ishub.github.io/project/craiglist/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ecaura</title>
+      <link>https://ishub.github.io/project/nyuad/</link>
+      <pubDate>Thu, 27 Sep 2018 23:01:41 -0400</pubDate>
+      
+      <guid>https://ishub.github.io/project/nyuad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Freestyle O.R. Supreme Hackathon</title>
+      <link>https://ishub.github.io/project/informs/</link>
+      <pubDate>Thu, 27 Sep 2018 23:01:41 -0400</pubDate>
+      
+      <guid>https://ishub.github.io/project/informs/</guid>
+      <description>&lt;p&gt;Freestyle O.R. Supreme Hackathon, INFORMS BA conf&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Globetrotter</title>
+      <link>https://ishub.github.io/project/travel/</link>
+      <pubDate>Thu, 27 Sep 2018 23:01:41 -0400</pubDate>
+      
+      <guid>https://ishub.github.io/project/travel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intellivision</title>
+      <link>https://ishub.github.io/project/spartahack/</link>
+      <pubDate>Thu, 27 Sep 2018 23:01:41 -0400</pubDate>
+      
+      <guid>https://ishub.github.io/project/spartahack/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marketing Superheroes</title>
+      <link>https://ishub.github.io/project/marvel/</link>
+      <pubDate>Thu, 27 Sep 2018 23:01:41 -0400</pubDate>
+      
+      <guid>https://ishub.github.io/project/marvel/</guid>
+      <description>&lt;p&gt;The study involves evaluating the marketing strategies and efforts by Marvel Studios&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>New York Restaurant Analysis</title>
+      <link>https://ishub.github.io/project/nyrestaurant/</link>
+      <pubDate>Thu, 27 Sep 2018 23:01:41 -0400</pubDate>
+      
+      <guid>https://ishub.github.io/project/nyrestaurant/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OpenCosmics</title>
+      <link>https://ishub.github.io/project/opencosmics/</link>
+      <pubDate>Thu, 27 Sep 2018 23:01:41 -0400</pubDate>
+      
+      <guid>https://ishub.github.io/project/opencosmics/</guid>
+      <description>
+
+&lt;h3 id=&#34;this-was-originally-published-as-the-open-cosmics-entry-for-the-cern-webfest&#34;&gt;This was originally published as the Open Cosmics entry for the CERN Webfest.&lt;/h3&gt;
+
+&lt;p&gt;Did you know that there are high energy particles from far edges of the universe passing through your body as you read this? Ever wondered what actually goes on inside the detectors of the Large Hadron Collider (LHC) at CERN?
+High energy cosmic beams hit the Earth’s outer atmosphere, which in turn scatters these rays into a shower of particle decays. Simple devices like Cloud Chambers, Bubble Chambers, and the CosmicPi allow us to detect particle decays which are not otherwise visible to the naked eye. Think of them as small scale detectors that mirror the science happening inside the really big machines at CERN, and other detectors around the world. In fact, cloud chambers and bubble chambers were used to do research in particle physics at CERN before the LHC.
+We plan to build a distributed network of these devices which will be able to capture these cosmic events around us. This may then be used to analyse the data, examine the results and disseminate it to the public, making it accessible for non-physicists, students, and hobbyists to play with this data and learn about the fascinating cosmos around them. Information about the cosmics around us will help us find answers to a broad spectrum of questions related to cloud formation, global warming, renewable energy and the universe.
+A part of the project will be to make the platform capable of filtering the raw data and storing the information after enhancing it using image processing techniques. Applying pattern recognition to ascertain the track of particle movement will enable us to determine what type of particle it is. Even simple information about the arc of a track can tell us the speed and mass of the particle. We want to make this a citizen science project that encourages and empowers people to open their inquisitive nature towards science.&lt;/p&gt;
+
+&lt;h3 id=&#34;use-cases-and-future-scope&#34;&gt;Use cases and future scope:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;If the data has potential, it is visualized in histograms.&lt;/li&gt;
+&lt;li&gt;Visualize particle decays taking place in real life around us.&lt;/li&gt;
+&lt;li&gt;Pattern recognition on images from small detectors.&lt;/li&gt;
+&lt;li&gt;Use GPS information on the cloud chamber to discover geographic regions that have biasing towards specific particles and decays.&lt;/li&gt;
+&lt;li&gt;Change in electromagnetic waves (light) will affect the way cosmic waves react with particles close by. If there is a meteor shower, what effect will it have on these particles?&lt;/li&gt;
+&lt;li&gt;Why are the fluctuations in cosmic rays relevant and why do they happen?&lt;/li&gt;
+&lt;li&gt;Analyze and reach conclusions, like physicists!&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;weekend-goals&#34;&gt;Weekend Goals:&lt;/h3&gt;
+
+&lt;p&gt;We planned on finishing a few things and presenting them at the pitch.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Setup the cloud chamber station at CERN S’Cool Lab.&lt;/li&gt;
+&lt;li&gt;Get our hands dirty with data from cloud chamber station at CERN S’Cool Lab and turn-key cloud chamber stations from New York!&lt;/li&gt;
+&lt;li&gt;Draft a common standard for storing the events recorded by the various stations that would be connected to the Open Cosmics network. The&lt;/li&gt;
+&lt;li&gt;Flexible Image Transport System (FITS) standard developed by NASA is a possible lead, which needed to be evaluated.&lt;/li&gt;
+&lt;li&gt;Use pattern recognition algorithms on the raw data to detect particle tracks and rare cosmic events.&lt;/li&gt;
+&lt;li&gt;Try some data analysis!&lt;/li&gt;
+&lt;li&gt;Build a distributed citizen science platform to host the open data, and expose it to the public using a REST interface.&lt;/li&gt;
+&lt;li&gt;Live demo of the Open Cosmics global network of cloud chamber stations.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;references-and-background-material&#34;&gt;References and Background Material:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=8Ya1JdxyZTE&#34; target=&#34;_blank&#34;&gt;TEDx Geneva talk on CosmicPi&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.hisparc.nl/en/&#34; target=&#34;_blank&#34;&gt;HiSPARC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://fits.gsfc.nasa.gov/&#34; target=&#34;_blank&#34;&gt;NASA FITS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://quarknet.i2u2.org/group/international-muon-week&#34; target=&#34;_blank&#34;&gt;International Muon Week (IMW), 2015&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://webfest.web.cern.ch/content/open-cosmics-cosmic-ray-physics-everyone&#34; target=&#34;_blank&#34;&gt;Open Cosmics CERN Webfest entry&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;results&#34;&gt;Results!&lt;/h3&gt;
+
+&lt;p&gt;We wanted to go see the Geneva fireworks but instead we stayed back and saw them from the conference rooms in building 500. We could see all the fireworks that were happening at several different places. After the fireworks, we stayed up all night, and finally completed all the tasks we had planned.&lt;/p&gt;
+
+&lt;p&gt;The first-hand account of the CERN Webfest and my team, the ‘Open Cosmics’ was written for the &lt;a href=&#34;https://home.cern/news/news/cern/cern-openlab-students-create-network-cosmic-ray-detectors&#34; target=&#34;_blank&#34;&gt;CERN Openlab News&lt;/a&gt;. It was further published in the International Science Grid This Week, the Student and Educators, CERN, and the Mozilla Science Lab. We were awarded the &lt;a href=&#34;https://webfest.web.cern.ch/content/winners-2015&#34; target=&#34;_blank&#34;&gt;Best Innovative Outreach&lt;/a&gt; prize!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>President Awardee</title>
+      <link>https://ishub.github.io/project/presidentaward/</link>
+      <pubDate>Thu, 27 Sep 2018 23:01:41 -0400</pubDate>
+      
+      <guid>https://ishub.github.io/project/presidentaward/</guid>
+      <description>&lt;p&gt;Received Rashtrapati Award (highest honor for a scout) from then President of India&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Sequence Analysis approach to improve product forecasts</title>
+      <link>https://ishub.github.io/project/autoparts/</link>
+      <pubDate>Thu, 27 Sep 2018 23:01:41 -0400</pubDate>
+      
+      <guid>https://ishub.github.io/project/autoparts/</guid>
+      <description>&lt;p&gt;Worked with the leading auto part seller in the US, to improve sales forecast by implementing a sequence analysis approach with time-series data to improve the accuracy of the model.&lt;/p&gt;
+
+&lt;p&gt;This study investigates a novel application of sequence analysis to forecast new product demand, which is a modified version of the approach that has been used in the bioinformatics field for protein sequencing. For retailers, the problem of forecasting demand for products which have never existed previously is challenging. Knowledge of how demand will fluctuate, especially for new product in the portfolio, will enable stores and distribution centers to manage inventory and utilize their shelf space more efficiently. We collaborated with a U.S. national retailer to develop a sequence analysis model to identify the likely sequence of purchasing future spares for various types of products on the basis of similar historical SKU sales data.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Taekwondo</title>
+      <link>https://ishub.github.io/project/taekwondo/</link>
+      <pubDate>Thu, 27 Sep 2018 23:01:41 -0400</pubDate>
+      
+      <guid>https://ishub.github.io/project/taekwondo/</guid>
+      <description>&lt;p&gt;International Taekwon-Do Federation National, Jammu, India - Silver Medalist&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>University Dance Team</title>
+      <link>https://ishub.github.io/project/dance/</link>
+      <pubDate>Thu, 27 Sep 2018 23:01:41 -0400</pubDate>
+      
+      <guid>https://ishub.github.io/project/dance/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Winner Solo Dance competition, IBM summer camp, UPES&lt;/li&gt;
+&lt;li&gt;Winner Group dance competiton&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>extra on Shubham Gupta</title>
+    <link>https://ishub.github.io/tags/extra/</link>
+    <description>Recent content in extra on Shubham Gupta</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 27 Sep 2018 23:01:41 -0400</lastBuildDate>
+    
+	<atom:link href="https://ishub.github.io/tags/extra/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>President Awardee</title>
+      <link>https://ishub.github.io/project/presidentaward/</link>
+      <pubDate>Thu, 27 Sep 2018 23:01:41 -0400</pubDate>
+      
+      <guid>https://ishub.github.io/project/presidentaward/</guid>
+      <description>Received Rashtrapati Award (highest honor for a scout) from then President of India</description>
+    </item>
+    
+    <item>
+      <title>Taekwondo</title>
+      <link>https://ishub.github.io/project/taekwondo/</link>
+      <pubDate>Thu, 27 Sep 2018 23:01:41 -0400</pubDate>
+      
+      <guid>https://ishub.github.io/project/taekwondo/</guid>
+      <description>International Taekwon-Do Federation National, Jammu, India - Silver Medalist</description>
+    </item>
+    
+  </channel>
+</rss>

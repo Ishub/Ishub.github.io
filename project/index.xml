@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Shubham Gupta</title>
+    <link>https://ishub.github.io/project/</link>
+    <description>Recent content in Projects on Shubham Gupta</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 27 Sep 2018 23:01:41 -0400</lastBuildDate>
+    
+	<atom:link href="https://ishub.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Airbnb Property Pricing Prediction</title>
+      <link>https://ishub.github.io/project/airbnb/</link>
+      <pubDate>Thu, 27 Sep 2018 23:01:41 -0400</pubDate>
+      
+      <guid>https://ishub.github.io/project/airbnb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Behind the scenes of a hit track</title>
+      <link>https://ishub.github.io/project/spotify/</link>
+      <pubDate>Thu, 27 Sep 2018 23:01:41 -0400</pubDate>
+      
+      <guid>https://ishub.github.io/project/spotify/</guid>
+      <description>In 2017, revenues from recorded music in the United States were estimated at a retail value of $8.7 billion, this market includes streaming services, live shows, record labels, artists, song writing and video streaming, which relies heavily on a single factor, the success of a song.Record Labels and artists release thousands of songs across various genres to get a few hit songs to get return on their investment. Considering the size of this market, there still lies ambiguity in what makes a song popular.</description>
+    </item>
+    
+    <item>
+      <title>Craiglist Spam Ad Filter</title>
+      <link>https://ishub.github.io/project/craiglist/</link>
+      <pubDate>Thu, 27 Sep 2018 23:01:41 -0400</pubDate>
+      
+      <guid>https://ishub.github.io/project/craiglist/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ecaura</title>
+      <link>https://ishub.github.io/project/nyuad/</link>
+      <pubDate>Thu, 27 Sep 2018 23:01:41 -0400</pubDate>
+      
+      <guid>https://ishub.github.io/project/nyuad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Freestyle O.R. Supreme Hackathon</title>
+      <link>https://ishub.github.io/project/informs/</link>
+      <pubDate>Thu, 27 Sep 2018 23:01:41 -0400</pubDate>
+      
+      <guid>https://ishub.github.io/project/informs/</guid>
+      <description>Freestyle O.R. Supreme Hackathon, INFORMS BA conf</description>
+    </item>
+    
+    <item>
+      <title>Globetrotter</title>
+      <link>https://ishub.github.io/project/travel/</link>
+      <pubDate>Thu, 27 Sep 2018 23:01:41 -0400</pubDate>
+      
+      <guid>https://ishub.github.io/project/travel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intellivision</title>
+      <link>https://ishub.github.io/project/spartahack/</link>
+      <pubDate>Thu, 27 Sep 2018 23:01:41 -0400</pubDate>
+      
+      <guid>https://ishub.github.io/project/spartahack/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marketing Superheroes</title>
+      <link>https://ishub.github.io/project/marvel/</link>
+      <pubDate>Thu, 27 Sep 2018 23:01:41 -0400</pubDate>
+      
+      <guid>https://ishub.github.io/project/marvel/</guid>
+      <description>The study involves evaluating the marketing strategies and efforts by Marvel Studios</description>
+    </item>
+    
+    <item>
+      <title>New York Restaurant Analysis</title>
+      <link>https://ishub.github.io/project/nyrestaurant/</link>
+      <pubDate>Thu, 27 Sep 2018 23:01:41 -0400</pubDate>
+      
+      <guid>https://ishub.github.io/project/nyrestaurant/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OpenCosmics</title>
+      <link>https://ishub.github.io/project/opencosmics/</link>
+      <pubDate>Thu, 27 Sep 2018 23:01:41 -0400</pubDate>
+      
+      <guid>https://ishub.github.io/project/opencosmics/</guid>
+      <description>This was originally published as the Open Cosmics entry for the CERN Webfest. Did you know that there are high energy particles from far edges of the universe passing through your body as you read this? Ever wondered what actually goes on inside the detectors of the Large Hadron Collider (LHC) at CERN? High energy cosmic beams hit the Earth’s outer atmosphere, which in turn scatters these rays into a shower of particle decays.</description>
+    </item>
+    
+    <item>
+      <title>President Awardee</title>
+      <link>https://ishub.github.io/project/presidentaward/</link>
+      <pubDate>Thu, 27 Sep 2018 23:01:41 -0400</pubDate>
+      
+      <guid>https://ishub.github.io/project/presidentaward/</guid>
+      <description>Received Rashtrapati Award (highest honor for a scout) from then President of India</description>
+    </item>
+    
+    <item>
+      <title>Sequence Analysis approach to improve product forecasts</title>
+      <link>https://ishub.github.io/project/autoparts/</link>
+      <pubDate>Thu, 27 Sep 2018 23:01:41 -0400</pubDate>
+      
+      <guid>https://ishub.github.io/project/autoparts/</guid>
+      <description>Worked with the leading auto part seller in the US, to improve sales forecast by implementing a sequence analysis approach with time-series data to improve the accuracy of the model.
+This study investigates a novel application of sequence analysis to forecast new product demand, which is a modified version of the approach that has been used in the bioinformatics field for protein sequencing. For retailers, the problem of forecasting demand for products which have never existed previously is challenging.</description>
+    </item>
+    
+    <item>
+      <title>Taekwondo</title>
+      <link>https://ishub.github.io/project/taekwondo/</link>
+      <pubDate>Thu, 27 Sep 2018 23:01:41 -0400</pubDate>
+      
+      <guid>https://ishub.github.io/project/taekwondo/</guid>
+      <description>International Taekwon-Do Federation National, Jammu, India - Silver Medalist</description>
+    </item>
+    
+    <item>
+      <title>University Dance Team</title>
+      <link>https://ishub.github.io/project/dance/</link>
+      <pubDate>Thu, 27 Sep 2018 23:01:41 -0400</pubDate>
+      
+      <guid>https://ishub.github.io/project/dance/</guid>
+      <description> Winner Solo Dance competition, IBM summer camp, UPES Winner Group dance competiton  </description>
+    </item>
+    
+  </channel>
+</rss>
