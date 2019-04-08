@@ -45,7 +45,19 @@
   
     <url>
     
+      <loc>https://ishub.github.io/project/smif/</loc>
+      <lastmod>2018-09-27T23:01:41-04:00</lastmod>
+    </url>
+  
+    <url>
+    
       <loc>https://ishub.github.io/project/marvel/</loc>
+      <lastmod>2018-09-27T23:01:41-04:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://ishub.github.io/project/mozfest/</loc>
       <lastmod>2018-09-27T23:01:41-04:00</lastmod>
     </url>
   
@@ -58,6 +70,12 @@
     <url>
     
       <loc>https://ishub.github.io/project/openlab/</loc>
+      <lastmod>2018-09-27T23:01:41-04:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://ishub.github.io/project/mozillacohort/</loc>
       <lastmod>2018-09-27T23:01:41-04:00</lastmod>
     </url>
   
@@ -170,13 +188,6 @@
   
     <url>
     
-      <loc>https://ishub.github.io/tags/dance/</loc>
-      <lastmod>2018-09-27T23:01:41-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
       <loc>https://ishub.github.io/tags/extra/</loc>
       <lastmod>2018-09-27T23:01:41-04:00</lastmod>
       <priority>0</priority>
@@ -192,13 +203,6 @@
     <url>
     
       <loc>https://ishub.github.io/tags/highlights/</loc>
-      <lastmod>2018-09-27T23:01:41-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>https://ishub.github.io/tags/travel/</loc>
       <lastmod>2018-09-27T23:01:41-04:00</lastmod>
       <priority>0</priority>
     </url>
