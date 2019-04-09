@@ -21,6 +21,15 @@
     </item>
     
     <item>
+      <title>Analytics as a Service</title>
+      <link>https://ishub.github.io/project/aas/</link>
+      <pubDate>Thu, 27 Sep 2018 23:01:41 -0400</pubDate>
+      
+      <guid>https://ishub.github.io/project/aas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Behind the scenes of a hit track</title>
       <link>https://ishub.github.io/project/spotify/</link>
       <pubDate>Thu, 27 Sep 2018 23:01:41 -0400</pubDate>
@@ -35,6 +44,24 @@
       <pubDate>Thu, 27 Sep 2018 23:01:41 -0400</pubDate>
       
       <guid>https://ishub.github.io/project/craiglist/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Crude Oil Price Prediction Modeling</title>
+      <link>https://ishub.github.io/project/crudeoilprice/</link>
+      <pubDate>Thu, 27 Sep 2018 23:01:41 -0400</pubDate>
+      
+      <guid>https://ishub.github.io/project/crudeoilprice/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Handwritten Digit Recognition</title>
+      <link>https://ishub.github.io/project/handwrittenrecog/</link>
+      <pubDate>Thu, 27 Sep 2018 23:01:41 -0400</pubDate>
+      
+      <guid>https://ishub.github.io/project/handwrittenrecog/</guid>
       <description></description>
     </item>
     
