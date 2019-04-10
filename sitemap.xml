@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     <url>
@@ -111,52 +110,6 @@
   
     <url>
     
-      <loc>https://ishub.github.io/project/autoparts/</loc>
-      <lastmod>2018-09-27T23:01:41-04:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>https://ishub.github.io/project/taekwondo/</loc>
-      <lastmod>2018-09-27T23:01:41-04:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>https://ishub.github.io/project/dance/</loc>
-      <lastmod>2018-09-27T23:01:41-04:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>https://ishub.github.io/author/admin/</loc>
-    </url>
-  
-    <url>
-    
-      <loc>https://ishub.github.io/author/</loc>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>https://ishub.github.io/authors/</loc>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>https://ishub.github.io/categories/</loc>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>https://ishub.github.io/post/</loc>
-    </url>
-  
-    <url>
-    
       <loc>https://ishub.github.io/project/</loc>
       <lastmod>2018-09-27T23:01:41-04:00</lastmod>
       <priority>0</priority>
@@ -164,18 +117,8 @@
   
     <url>
     
-      <loc>https://ishub.github.io/publication_types/</loc>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>https://ishub.github.io/publication/</loc>
-    </url>
-  
-    <url>
-    
-      <loc>https://ishub.github.io/talk/</loc>
+      <loc>https://ishub.github.io/project/autoparts/</loc>
+      <lastmod>2018-09-27T23:01:41-04:00</lastmod>
     </url>
   
     <url>
@@ -187,14 +130,21 @@
   
     <url>
     
+      <loc>https://ishub.github.io/project/taekwondo/</loc>
+      <lastmod>2018-09-27T23:01:41-04:00</lastmod>
+    </url>
+  
+    <url>
+    
       <loc>https://ishub.github.io/tags/</loc>
+      <lastmod>2018-09-27T23:01:41-04:00</lastmod>
       <priority>0</priority>
     </url>
   
     <url>
     
-      <loc>https://ishub.github.io/authors/admin/</loc>
-      <priority>0</priority>
+      <loc>https://ishub.github.io/project/dance/</loc>
+      <lastmod>2018-09-27T23:01:41-04:00</lastmod>
     </url>
   
     <url>
@@ -222,6 +172,56 @@
     
       <loc>https://ishub.github.io/tags/highlights/</loc>
       <lastmod>2018-09-27T23:01:41-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://ishub.github.io/author/admin/</loc>
+    </url>
+  
+    <url>
+    
+      <loc>https://ishub.github.io/authors/</loc>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://ishub.github.io/author/</loc>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://ishub.github.io/categories/</loc>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://ishub.github.io/post/</loc>
+    </url>
+  
+    <url>
+    
+      <loc>https://ishub.github.io/publication_types/</loc>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://ishub.github.io/publication/</loc>
+    </url>
+  
+    <url>
+    
+      <loc>https://ishub.github.io/talk/</loc>
+    </url>
+  
+    <url>
+    
+      <loc>https://ishub.github.io/authors/admin/</loc>
       <priority>0</priority>
     </url>
   
