@@ -42,7 +42,11 @@
       <pubDate>Thu, 27 Sep 2018 23:01:41 -0400</pubDate>
       
       <guid>https://ishub.github.io/project/craiglist/</guid>
-      <description></description>
+      <description>&lt;p&gt;Millions of ads are posted every single day on Craigslist worldwide to a large extent anonymously. Millions of housing listings are posted in a month. It is difficult to check the listings for  the people looking for a new house. As per trends 6% of housing ads are spams. However, they can’t run all around the world policing and prosecuting people. This project intends to solve the house hunt problem by sending the updates of new listings as per the selection criteria of the user by filtering spam in housing listings.
+Classified ad sites routinely process hundreds of thousands to millions of posted ads, and only a small percentage of those may be fraudulent. Online scammers often go through a great amount of effort to make their listings look legitimate. Examples include copying existing advertisements from other services, tunneling through local proxies, and even paying for extra services using stolen account information. Given below is on such listing that appears more like a work of art.
+This project would try to provide value to both its client(Craigslist) &amp;amp; its users by solving some of the key issues. High volumes of rental scams damages the reputation of Craigslist &amp;amp; increases its user drop-off rates. Users have to spend hours finding legitimate ads and it takes a lot of time &amp;amp; resources to select a genuine listing from thousands of existing listings.
+This project consists of applying data analysis and text analysis concepts &amp;amp; techniques towards the detection of online, classified fraud for housing ad listings and building an automated notification system to send new listings as per user’s search keywords. Traditional data mining is used to extract relevant attributes from an online classified advertisements database and machine learning algorithms are applied to discover patterns and relationships of fraudulent activity.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -51,7 +55,8 @@
       <pubDate>Thu, 27 Sep 2018 23:01:41 -0400</pubDate>
       
       <guid>https://ishub.github.io/project/crudeoilprice/</guid>
-      <description></description>
+      <description>&lt;p&gt;Analyzed the existing studies of prediction models for crude oil prices and developed a software system for real-time crude price analysis and prediction. The data was sent to Hadoop Distributed File System (HDFS) and processed using MapReduce programs in Python. The data visualization was done using Python Graphs.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -83,7 +88,7 @@
     </item>
     
     <item>
-      <title>Handwritten Digit Recognition</title>
+      <title>Hack the talk</title>
       <link>https://ishub.github.io/project/handwrittenrecog/</link>
       <pubDate>Thu, 27 Sep 2018 23:01:41 -0400</pubDate>
       

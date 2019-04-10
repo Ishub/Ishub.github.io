@@ -17,7 +17,7 @@
       <pubDate>Thu, 27 Sep 2018 23:01:41 -0400</pubDate>
       
       <guid>https://ishub.github.io/project/airbnb/</guid>
-      <description></description>
+      <description>Paper selected to be presented at Southeast Decision Science Institute</description>
     </item>
     
     <item>
@@ -26,7 +26,7 @@
       <pubDate>Thu, 27 Sep 2018 23:01:41 -0400</pubDate>
       
       <guid>https://ishub.github.io/project/aas/</guid>
-      <description></description>
+      <description>Integrated OpenStack with Hadoop through data processing and thereby managed Hadoop clusters within the cloud.</description>
     </item>
     
     <item>
@@ -44,7 +44,7 @@
       <pubDate>Thu, 27 Sep 2018 23:01:41 -0400</pubDate>
       
       <guid>https://ishub.github.io/project/craiglist/</guid>
-      <description></description>
+      <description>Millions of ads are posted every single day on Craigslist worldwide to a large extent anonymously. Millions of housing listings are posted in a month. It is difficult to check the listings for the people looking for a new house. As per trends 6% of housing ads are spams. However, they can’t run all around the world policing and prosecuting people. This project intends to solve the house hunt problem by sending the updates of new listings as per the selection criteria of the user by filtering spam in housing listings.</description>
     </item>
     
     <item>
@@ -53,16 +53,16 @@
       <pubDate>Thu, 27 Sep 2018 23:01:41 -0400</pubDate>
       
       <guid>https://ishub.github.io/project/crudeoilprice/</guid>
-      <description></description>
+      <description>Analyzed the existing studies of prediction models for crude oil prices and developed a software system for real-time crude price analysis and prediction. The data was sent to Hadoop Distributed File System (HDFS) and processed using MapReduce programs in Python. The data visualization was done using Python Graphs.</description>
     </item>
     
     <item>
-      <title>Handwritten Digit Recognition</title>
+      <title>Hack the talk</title>
       <link>https://ishub.github.io/project/handwrittenrecog/</link>
       <pubDate>Thu, 27 Sep 2018 23:01:41 -0400</pubDate>
       
       <guid>https://ishub.github.io/project/handwrittenrecog/</guid>
-      <description></description>
+      <description>Emotion detection in human speech</description>
     </item>
     
     <item>
