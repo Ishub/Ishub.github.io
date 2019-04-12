@@ -111,7 +111,9 @@ This project consists of applying data analysis and text analysis concepts &amp;
       <pubDate>Thu, 27 Sep 2018 23:01:41 -0400</pubDate>
       
       <guid>https://ishub.github.io/project/smif/</guid>
-      <description>&lt;p&gt;Freestyle O.R. Supreme Hackathon, INFORMS BA conf&lt;/p&gt;
+      <description>&lt;p&gt;Invested in Intel at a ticker price of $48.86 and has realised more than 12% returns in a period of 4 months&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://finance.yahoo.com/quote/INTC/&#34; target=&#34;_blank&#34;&gt;current price&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -150,7 +152,11 @@ This project consists of applying data analysis and text analysis concepts &amp;
       <pubDate>Thu, 27 Sep 2018 23:01:41 -0400</pubDate>
       
       <guid>https://ishub.github.io/project/openlab/</guid>
-      <description></description>
+      <description>&lt;p&gt;Developed a generic WinCC OA component to monitor and analyze users&amp;rsquo; behavior with WinCC OA applications by collecting data about user interaction using standard frameworks such as JCOP, UNICOS and CPC&lt;/p&gt;
+
+&lt;p&gt;Here is the talk for the project
+&lt;a href=&#34;https://cds.cern.ch/record/2046041&#34; target=&#34;_blank&#34;&gt;Non-intrusive user interaction monitoring for WinCC OA applications&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>
